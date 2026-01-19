@@ -1,0 +1,7 @@
+{
+  "name": "SAP Talent Assessment AI (SAPTA)",
+  "description": "A comprehensive AI-powered assessment system for SAP consultants (Technical/Functional) and Project Managers. Features dynamic question generation via Gemini, role-based access control (Admin, RH, Delivery), and LGPD-compliant data handling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
